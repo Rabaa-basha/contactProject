@@ -1,10 +1,12 @@
 # contacts
 
-A new Flutter application.
+An android application to save contacts.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make sure you have flutter installed
+2. run the code from lib/main.dart
+3. check that you have internet conneciton or mobile data.
 
 A few resources to get you started if this is your first Flutter project:
 
