@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138011115159",
+    "project_id": "contacts-f14a8",
+    "storage_bucket": "contacts-f14a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138011115159:android:f7f8b7f1f37a61414733d2",
+        "android_client_info": {
+          "package_name": "ca.uregina.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138011115159-2difh80gr0tljea4mioskec8v4nqidk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxRvAHRPTOEkLVg5m8DtvZZzd3N4aeaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138011115159-2difh80gr0tljea4mioskec8v4nqidk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
